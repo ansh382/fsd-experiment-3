@@ -1,0 +1,6 @@
+{
+  "name": "LibroFlow: Library Management System",
+  "description": "A sophisticated library management dashboard built with React and shadcn/ui, featuring book search, additions, and removals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
